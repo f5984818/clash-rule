@@ -587,8 +587,8 @@ DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
 
 #禁漫
-#DOMAIN-KEYWORD,jmcomic-
-#DOMAIN-KEYWORD,18comic-
+DOMAIN-KEYWORD,jmcomic-
+DOMAIN-KEYWORD,18comic-
 #白嫖home节点
 DOMAIN-SUFFIX,tgzdyz2.xyz
 #影视资源
