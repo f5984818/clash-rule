@@ -1,0 +1,5 @@
+# 禁止走日本代理列表
+
+# 国外DNS
+DOMAIN-SUFFIX,javdb.com
+DOMAIN-SUFFIX,javdb457.com
